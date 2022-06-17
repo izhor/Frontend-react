@@ -122,7 +122,7 @@ function BookManagement() {
                     swal({
                         title: "Failed!",
                         text: "Error ocurred!",
-                        icon: "error",
+                        icon: 'error',
                     })
                 )
             }else{
